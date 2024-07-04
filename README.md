@@ -6,7 +6,7 @@
 1. [Overview & Requirements](#overview-&-requirements)
 1. [Running Locally](#running-the-app-locally)
 1. [Tech Stack](#tech-stack)
-1. [Schema](#schema
+1. [Schema]
 
 This is a content management application where administrators can manage students and students can see their courses.
 
