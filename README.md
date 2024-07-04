@@ -48,6 +48,8 @@ uvicorn index:app --reload
 - Python 3.9+
 - Mongodb Atlas
 - Pydantic
+- Swagger
+- Pymongo
 
 
 ## Schema
